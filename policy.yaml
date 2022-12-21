@@ -1,4 +1,4 @@
-cat <<EOF > ns-must-have-geo.yaml
+
 apiVersion: constraints.gatekeeper.sh/v1beta1
 kind: K8sRequiredLabels
 metadata:
