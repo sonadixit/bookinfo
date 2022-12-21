@@ -11,4 +11,4 @@ spec:
   parameters:
     labels:
       - key: "geo"
-EOF
+
